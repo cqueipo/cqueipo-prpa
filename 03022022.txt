@@ -1,0 +1,137 @@
+Script started on 2022-02-03 10:20:28+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ ssh-keygen -t rsa -b 2048
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/mat/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/mat/.ssh/id_rsa
+Your public key has been saved in /home/mat/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:4ucLw/cht2lNqvWSZsuJPO6Y3PqxKT9wzjeajWY1D6o mat@mat-VirtualBox
+The key's randomart image is:
++---[RSA 2048]----+
+|                 |
+|                 |
+|                 |
+|                 |
+|      . S        |
+|     o... + .    |
+|      ===o+O     |
+|     ..@O#X*o    |
+|      E@^@O+.    |
++----[SHA256]-----+
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ ls
+03022022.txt  [0m[01;34mDocumentos[0m  [01;34mImágenes[0m  [01;34mPlantillas[0m  [01;34mVídeos[0m
+[01;34mDescargas[0m     [01;34mEscritorio[0m  [01;34mMúsica[0m    [01;34mPúblico[0m
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ ls home[K[K[K[K[K[K[Kls m[K/home/mat
+03022022.txt  [0m[01;34mDocumentos[0m  [01;34mImágenes[0m  [01;34mPlantillas[0m  [01;34mVídeos[0m
+[01;34mDescargas[0m     [01;34mEscritorio[0m  [01;34mMúsica[0m    [01;34mPúblico[0m
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ cd /hi[Kome
+]0;mat@mat-VirtualBox: /home[01;32mmat@mat-VirtualBox[00m:[01;34m/home[00m$ ls
+[0m[01;34mmat[0m
+]0;mat@mat-VirtualBox: /home[01;32mmat@mat-VirtualBox[00m:[01;34m/home[00m$ cd mar[Kt
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ ls
+03022022.txt  [0m[01;34mDocumentos[0m  [01;34mImágenes[0m  [01;34mPlantillas[0m  [01;34mVídeos[0m
+[01;34mDescargas[0m     [01;34mEscritorio[0m  [01;34mMúsica[0m    [01;34mPúblico[0m
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ cd .shh/
+bash: cd: .shh/: No existe el archivo o el directorio
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ cd .shh/[K
+bash: cd: .shh: No existe el archivo o el directorio
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ cd /home [K/mat/.ssh
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ ls
+id_rsa  id_rsa.pub  known_hosts
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ mv id:[K_rsa.puv[Kb cqueipo@simba[K[K[K[K[K[K.pub 
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ ls
+cqueipo.pub  id_rsa  known_hosts
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ lsmv id_rsa.pub cqueipo.pub ls[Kcd /home/mat/.ssh.shh[K/ls[Kcd mat[4Plscd /homels /home/mat[Kssh-keygen -t rsa -b 2048[1Prm /home/mat/.ssh/id_rsassh-keygen -t rsa -b 2048[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+cqueipo.pub  id_rsa  known_hosts
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ more cqui[Keipo.pub 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDhADD+lZTfYjacaJM353Mhf7dFrGjp5eJCfYjmMl4P
+Ex5Kgb5XHGNZGpuarkdtAKkUwsfPwMwJT+eg9iLO86LuHIC6F/sxNRg/pZhO6+nLth96dEUTX2NLbxjn
+EFCd9w1joQ1zRUwSmSfCKQ56FaJ+EJn8UhpXD8hvAlibpK1Zb9GhGAloyYO4s+bmNzjNdmNZG2B7RdB2
+5BoFIGehhaPW9XCXAyqL2+DaPPti9FISgqyQEKSVQnIUZnxDJygNDtS79M1TBUWmB31f/vPkX117jvf4
+E57FoZWZ568WEl8yD2OXrumeObVgvJB5TfkFlx2E12L1eDUklbzzbW71RQ8L mat@mat-VirtualBox
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ ^C
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ ^C
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ r[Kmore cqueipo.pub ls[Kmv id_rsa.pub cqueipo.pub [1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[1P [1P [1P [1P 
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ git clone git@github.com:cqueipo/cqueipo.git
+fatal: la ruta de destino 'cqueipo' ya existe y no es un directorio vacío.
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ git clone git@github.com:cqueipo/cqueipo.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit@github.com:cqueipo/cqueipo-prpa.git
+Clonando en 'cqueipo-prpa'...
+The authenticity of host 'github.com (140.82.121.4)' can't be established.
+ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com,140.82.121.4' (ECDSA) to the list of known hosts.
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Compressing objects:  50% (1/2)[Kremote: Compressing objects: 100% (2/2)[Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Recibiendo objetos:  33% (1/3)Recibiendo objetos:  66% (2/3)Recibiendo objetos: 100% (3/3)Recibiendo objetos: 100% (3/3), listo.
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ git clone git@github.com:cqueipo/cqueipo-prpa.git[5P.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[26Pmv id_rsa cqueipo [1@D[1@D[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C[C[C[CID[K[Kid:[K_rsa
+]0;mat@mat-VirtualBox: ~/.ssh[01;32mmat@mat-VirtualBox[00m:[01;34m~/.ssh[00m$ git cl[K[K[K[K[K[Kcd
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ git g[Kclioen[K[K[K[K[K[K[K[K[K[Kcd .ssh/[K[K[K[K[K[K[K[Kmv .ssh/ [Kcqueipo .ç[K
+mv: no se puede efectuar `stat' sobre '.ssh/cqueipo': No existe el archivo o el directorio
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ mv .ssh/cqueipo .[K[K
+cqueipo-prpa/ cqueipo.pub   
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ mv .ssh/cqueipo
+cqueipo-prpa/ cqueipo.pub   
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ mv .ssh/cqueipo-prpa/ .
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ git clone git@github.com:cqueipo/cqueipo-prpa.git
+fatal: la ruta de destino 'cqueipo-prpa' ya existe y no es un directorio vacío.
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ cd mat
+bash: cd: mat: No existe el archivo o el directorio
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ cd home
+bash: cd: home: No existe el archivo o el directorio
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ cd..
+cd..: orden no encontrada
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ ls
+03022022.txt  [0m[01;34mDescargas[0m   [01;34mEscritorio[0m  [01;34mMúsica[0m      [01;34mPúblico[0m
+[01;34mcqueipo-prpa[0m  [01;34mDocumentos[0m  [01;34mImágenes[0m    [01;34mPlantillas[0m  [01;34mVídeos[0m
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ cd cue[K[Kqueipo [K.[K-prpa
+]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ python3 prueba.py
+hola
+]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ git commit -m "Prueba!"[K[K[K"[Ka"
+
+*** Por favor cuéntame quien eres.
+
+Corre
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+para configurar la identidad por defecto de tu cuenta.
+Omite --global para configurar tu identidad solo en este repositorio.
+
+fatal: no es posible auto-detectar la dirección de correo (se obtuvo 'mat@mat-VirtualBox.(none)')
+]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ git config --global user.email "you@example.com"[1P"[1P"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"c"q"u"e"i"p"o"!"[1P"[C"[K[1P"o"@"u"c"m"." [A]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce"s"[C
+]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ git config --global user.email "cqueipo@ucm.es"[A]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ [C[C[C[C[C[C[23Pmmit -m "Prueba"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+En la rama main
+Tu rama está actualizada con 'origin/main'.
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+	[31mprueba.py[m
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ git addcommit -m "Prueba"nfig --global user.email "cqueipo@ucm.es"[A]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ [C[C[C[C[C[C[23Pmmit -m "Prueba"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnfig --global user.email "cqueipo@ucm.es"[A]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ [C[C[C[C[C[C[23Pmmit -m "Prueba"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd[K prueba.py
+]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$  [Kgit push
+Everything up-to-date
+]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ git pushadd prueba.pycommit -m "Prueba"
+[main 55c08c9] Prueba
+ 1 file changed, 8 insertions(+)
+ create mode 100644 prueba.py
+]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ git push
+Enumerando objetos: 4, listo.
+Contando objetos:  25% (1/4)Contando objetos:  50% (2/4)Contando objetos:  75% (3/4)Contando objetos: 100% (4/4)Contando objetos: 100% (4/4), listo.
+Comprimiendo objetos:  33% (1/3)Comprimiendo objetos:  66% (2/3)Comprimiendo objetos: 100% (3/3)Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos:  33% (1/3)Escribiendo objetos:  66% (2/3)Escribiendo objetos: 100% (3/3)Escribiendo objetos: 100% (3/3), 350 bytes | 350.00 KiB/s, listo.
+Total 3 (delta 0), reusado 0 (delta 0)
+To github.com:cqueipo/cqueipo-prpa.git
+   ed77670..55c08c9  main -> main
+]0;mat@mat-VirtualBox: ~/cqueipo-prpa[01;32mmat@mat-VirtualBox[00m:[01;34m~/cqueipo-prpa[00m$ exit
+
+Script done on 2022-02-03 11:34:02+01:00 [COMMAND_EXIT_CODE="0"]
